@@ -4,21 +4,21 @@ Attendance Management Software is very useful and fast using C++ it will Give yo
 start date : 22/10/2021
 finish date : 06/02/2022
 
-1)Leader & Problem solving &Project Management &BUG fixing & Coding Analyst : HARSHIL RAMANI :: OKAY
+1)Leader & Problem solving &Project Management &BUG fixing & Coding Analyst : HARSHIL RAMANI 
 
-2)Co-leader & Technical section & GUI: Shubham Khunt::OKAY
+2)Co-leader & Technical section & GUI: Shubham Khunt
 
-3)Testing & memory management : Viraj Talaviya  :: OKAY
+3)Testing & memory management : Viraj Talaviya 
 
-4)Co-leader & Product Module development Head( R&D ): Drashti dhola :: OKAY
+4)Co-leader & Product Module development Head( R&D ): Drashti dhola 
 
-5)Technical & Analysis Department & Business Marketing : Archit Ghevariya :: OKAY
+5)Technical & Analysis Department & Business Marketing : Archit Ghevariya 
 
-6)GUI development & Design Section (UI) : Nupur kukadiya:: OKAY
+6)GUI development & Design Section (UI) : Nupur kukadiya
 
-7)Technical module development and Testing section : Shikhaa Tikiwala :: OKAY
+7)Technical module development and Testing section : Shikhaa Tikiwala
 
-8)Technical coding Assist & Helper : Fenil Munzani :: OKAY
+8)Technical coding Assist & Helper : Fenil Munzani 
 
 
 
